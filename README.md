@@ -212,7 +212,7 @@ Transaction data structure containing:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR-USERNAME/android-apps-portfolio.git
+git clone https://github.com/250evelyne/android-apps-portfolio.git
 cd android-apps-portfolio/Bankly
 ```
 
@@ -331,7 +331,6 @@ User Input → Activity → DatabaseService → Firebase → Real-time Update �
 [Watch how the app functions](https://drive.google.com/file/d/1oSu1Kvk3IYgvYw0hf0bSmjvyvV1cWld2/view)
 
 
-Suggested screenshots:
 - Login screen
 - Sign up screen
 - Home activity with tabs
@@ -418,7 +417,7 @@ This project was developed for educational purposes as part of the Computer Scie
 Computer Science Student @ LaSalle College
 
 - 📧 Email: evelynekessie@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/evelyne-mukarukundo-317407188/)
+- 💼 LinkedIn: [EVELYNE MUKARUKUNDO](https://www.linkedin.com/in/evelyne-mukarukundo-317407188/)
 - 📍 Location: Montréal, QC, Canada
 - 🎓 Program: DEC in Computer Science - Programming
 
